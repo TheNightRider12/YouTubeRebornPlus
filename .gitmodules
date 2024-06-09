@@ -1,6 +1,6 @@
 [submodule "Tweaks/YTUHD"]
 	path = Tweaks/YTUHD
-	url = https://github.com/arichornloverALT/YTUHD.git
+	url = https://github.com/TheNightRider12/YTUHD.git
 	branch = master
 [submodule "Tweaks/YouPiP"]
 	path = Tweaks/YouPiP
@@ -24,7 +24,7 @@
 	branch = uYouEnhanced
 [submodule "Tweaks/YouTubeHeader"]
 	path = Tweaks/YouTubeHeader
-	url = https://github.com/arichornlover/YouTubeHeader.git
+	url = https://github.com/TheNightRider12/YouTubeHeader.git
 	branch = main
 [submodule "Tweaks/PSHeader"]
 	path = Tweaks/PSHeader
@@ -46,7 +46,7 @@
 	url = https://github.com/therealFoxster/DontEatMyContent
 [submodule "Tweaks/iSponsorBlock"]
 	path = Tweaks/iSponsorBlock
-	url = https://github.com/Galactic-Dev/iSponsorBlock.git
+	url = https://github.com/TheNightRider12/iSponsorBlock.git
 	branch = master
 [submodule "Tweaks/FLEX"]
 	path = Tweaks/FLEX
